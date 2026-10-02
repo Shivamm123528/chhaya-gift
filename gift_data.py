@@ -99,7 +99,7 @@ LOVE_LIST_TITLE = "Teen cheezein jo mujhe tumhare baare mein pasand hain"
 LOVE_LIST = [
     "Tumhari smile, jab main kuch bewaqoofon wali harkate karta hu ya tum karti ho",
     "jab ham bahar ghumne jate h to chill sb , happy happy wo sb",
-    "[Tum]",
+    "Tum",
 ]
 
 NEXT_UP = [

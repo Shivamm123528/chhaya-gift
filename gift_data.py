@@ -59,19 +59,29 @@ ENVELOPES = [
 
 VOICE_NOTES = [
     {
-        "title": "🎧 Happy Birthday",
+        "title": "🎧 Happy Birthday 🎂",
         "file": "audio/voice1.mp3",
-        "script": "Happy Birthday Chhaya. Tumhara aana meri life me bohot special raha hai. Main chahta hoon ki aaj tum sach me thoda relax karo aur smile karo. I'm here.",
+        "script": "Happy birthday Chhaya! Ekdam chhote-mote wala happy birthday. Aaj ka din enjoy karo, zyada mat sochna. Thoda aaram karna, khush rehna, ghar & mujhse baat karna... Chill karo yaar!",
     },
     {
-        "title": "🎧 A funny memory",
+        "title": "🎧 Sameer Hills & Kanjurmarg ⛰️",
         "file": "audio/voice2.mp3",
-        "script": "Kanjurmarg wala scene socho... tumne aur maine milkar us dukandaar ko wapas aakar kitna sunaya tha paise kam karwane ke liye! Kitni mehnat ki thi online price check karke.",
+        "script": "Bhai kitna badhiya tha na saath mein... Sameer Hills wala scene, Kanjurmarg, books, wahan ki smell, chal chal ke pizza khana... Kitne acche moments the!",
     },
     {
-        "title": "🎧 You're not alone",
+        "title": "🎧 Most Important Question 🐣",
         "file": "audio/voice3.mp3",
-        "script": "Ek baat hamesha yaad rakhna. Mera present aur mera focus sirf aur sirf tum par hai. Let's just focus on us. Tum akeli nahi ho.",
+        "script": "Ab aaya sabse most important cheez... jo tumhe batani hai ki pehle anda aaya ki murgi? Yo!",
+    },
+    {
+        "title": "🎧 You've Got This 🌟",
+        "file": "audio/voice4.mp3",
+        "script": "Mushkil time hai par sab ho jayega. Gehri saans lena, shaant rehna. Tum IIT mein ho, 10/9 marks laa rahi ho, itni talented ho... tum kar logi, mujhe bharosa hai.",
+    },
+    {
+        "title": "🎧 Always Here For You ❤️️",
+        "file": "audio/voice5.mp3",
+        "script": "I love you Chhaya, I really love you. Dil se dua hai ki tum khush raho. Abhi thoda mushkil time hai, par sab sahi ho jayega. Yo yo yo!",
     },
 ]
 

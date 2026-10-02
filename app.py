@@ -1,11 +1,10 @@
 import base64
-import importlib  # <-- Add this
 import os
 import random
 
-import gift_data as g
+import streamlit as st
 
-importlib.reload(g)  # <-- Add this to force reload gift_data on refresh
+import gift_data as g
 from gate import run_gate
 
 st.set_page_config(page_title="Chhaya ke liye 💗", page_icon="💗", layout="centered")

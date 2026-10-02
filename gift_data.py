@@ -90,7 +90,7 @@ GRATEFUL = [
     "Tum sabki itni care karti ho, even jab tum khud theek nahi hoti.",
     "Tumne mere liye Flipkart se order kiya, bina kuch sochey.",
     "Tumne mere liye paneer aur paratha order kia, ek baar nahi, kai baar.",
-    "Jab mujhe paise ki zaroorat thi, tumne bina jhijhak madad ki.",
+    "Jab mujhe paise ki zaroorat thi, tumne madad ki.",
     "Tum bohot resilient ho. Tumne hamesha khud ko sambhala hai.",
     "IIT me tumhara hard work aur padhai ko lekar focus.",
     "Humara comfort zone, jahan silence bhi acha lagta hai.",
